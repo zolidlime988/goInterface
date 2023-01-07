@@ -5,4 +5,5 @@ func main() {
 	sb := spanishBot{}
 
 	printGreeting(sb)
+	printGreeting(eb)
 }
